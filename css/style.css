@@ -1,0 +1,7 @@
+:root {
+    --bulma-primary:  #E4717A;
+}
+
+.has-background-primary {
+    background-color: var(--bulma-primary) !important;
+}
